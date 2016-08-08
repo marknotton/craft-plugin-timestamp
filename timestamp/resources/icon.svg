@@ -1,0 +1,19 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-47 170.9 500 500" style="enable-background:new -47 170.9 500 500;" xml:space="preserve">
+
+  <style type="text/css">
+    .stroke{fill:none;stroke:#FFFFFF;stroke-width:40;stroke-miterlimit:10;}
+  </style>
+
+	<path id="background" fill="#FFC83B" d="M453.1,238.5c0-37.3-30.2-67.6-67.6-67.6H20.6c-37.3,0-67.7,30.2-67.7,67.6v364.8 c0,37.3,30.2,67.6,67.6,67.6h364.8c37.3,0,67.6-30.2,67.6-67.6V238.5H453.1z"/>
+
+	<g id="icon" fill="#FFFFFF">
+		
+    <g id="timestamp">
+      <circle class="stroke" cx="203" cy="420.9" r="160"/>
+      <polyline class="stroke" points="203.5,304.8 203.5,421.3 265.7,483.4    "/>
+    </g>
+
+	</g>
+	
+</svg>
+
