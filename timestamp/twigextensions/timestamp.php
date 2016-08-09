@@ -15,10 +15,8 @@ class timestamp extends \Twig_Extension {
 		);
 	}
 
-	// Date time format
-	// {{ entry|timestamp('format') }}
-	// http://php.net/manual/en/function.date.php
-	public function timestamp($entry, $format="M d Y", $wrap=null)	{
+
+	public function timestamp($entry, $format="d M Y", $wrap=null)	{
 
     $date = new DateTime($entry->postDate);
 
