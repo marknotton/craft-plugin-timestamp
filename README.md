@@ -1,12 +1,11 @@
 # Timestamp *for Craft CMS*
 Twig filter to output correctly formatted time/datetime information for an entry.
 
-## Settings
-
-| Option | Type   | Default | Description |
-| ------ | ------ | ------- | ----------- |
-| Format | String | 'd M Y' | Date format as per [**PHP Date**](http://php.net/manual/en/function.date.php)
-| Tags   | String |         | Wrap each formatted element into a span.
+##**Settings**
+| Parameters       | Type   | Default | Description |
+| --------------- | ------ | ------- | ----------- |
+| Format          | String | 'd M Y' | Date format as per [**PHP Date**](http://php.net/manual/en/function.date.php)
+| Tags *optional* | String |         | Wrap each formatted element into a span.
 
 ### Basic Usage
 ```
