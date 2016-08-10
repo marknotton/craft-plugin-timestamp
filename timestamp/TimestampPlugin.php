@@ -10,6 +10,14 @@ class TimestampPlugin extends BasePlugin {
     return '0.1';
   }
 
+  public function getSchemaVersion() {
+    return '0.1';
+  }
+
+  public function getDescription() {
+    return 'Twig filter to output correctly formatted time/datetime information for an entry.';
+  }
+
   public function getDeveloper() {
     return 'Yello Studio';
   }
