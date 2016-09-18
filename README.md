@@ -1,4 +1,7 @@
+<img src="http://i.imgur.com/ZcGCU3r.png" alt="Timestamp" align="left" height="60" />
+
 # Timestamp *for Craft CMS*
+
 Twig filter to output correctly formatted time/datetime information for an entry.
 
 ##**Settings**
