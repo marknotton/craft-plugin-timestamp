@@ -1,10 +1,11 @@
+
 <img src="http://i.imgur.com/ZcGCU3r.png" alt="Timestamp" align="left" height="60" />
 
 # Timestamp *for Craft CMS*
 
 Twig filter to output correctly formatted time/datetime information for an entry.
 
-##**Settings**
+## Settings
 | Parameters       | Type   | Default | Description |
 | --------------- | ------ | ------- | ----------- |
 | Format          | String | 'd M Y' | Date format as per [**PHP Date**](http://php.net/manual/en/function.date.php)
